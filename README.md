@@ -47,3 +47,7 @@ The different licenses serve different purposes:
 - If you want to commercialize your project unmodified, use the DTO-OSSL license.
 - For community projects, DT-OSSL is often a better fit.
 - Clearly state which license applies in your project’s README or license file.
+
+## Anyone can use these!
+
+Although they're called Delta-OSSLs, anyone can use this liscence, I don't care!
